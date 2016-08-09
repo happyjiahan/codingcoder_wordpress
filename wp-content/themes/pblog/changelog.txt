@@ -1,0 +1,4 @@
+ v1.2.0
+ Add an option to disable the search button on the header
+ Fix "Display Site Title & Tagline" bug
+ Change the default background color to "#ffffff"
